@@ -1,5 +1,5 @@
 # libEntitiesControl
-A Datapack for Minecraft to Control a Entities
+A Datapack for Minecraft to Select Entities via Raycast
 
 
 ## How to Use:
@@ -7,7 +7,7 @@ A Datapack for Minecraft to Control a Entities
 
     /give @p minecraft:carrot_on_a_stick{Damage:3,Unbreakable:1b,display:{Name:"{\"text\":\"EntitiesControl\"}"}}
     
-### Select-Manuel
+### Select-Manually
 
     /function lucsoft:entitiescontrol.select
     
