@@ -1,5 +1,5 @@
 # libEntitiesControl
-A Datapack for Minecraft to Control a Entitys
+A Datapack for Minecraft to Control a Entities
 
 
 ## How to Use:
