@@ -1,15 +1,15 @@
-# libEntitysControl
+# libEntitiesControl
 A Datapack for Minecraft to Control a Entitys
 
 
 ## How to Use:
 ### Select-Default
 
-    /give @p minecraft:carrot_on_a_stick{Damage:3,Unbreakable:1b,display:{Name:"{\"text\":\"EntitysControl\"}"}}
+    /give @p minecraft:carrot_on_a_stick{Damage:3,Unbreakable:1b,display:{Name:"{\"text\":\"EntitiesControl\"}"}}
     
 ### Select-Manuel
 
-    /function lucsoft:entityscontrol.select
+    /function lucsoft:entitiescontrol.select
     
 #### Execute as Targets
     
